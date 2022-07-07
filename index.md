@@ -8,3 +8,10 @@
 layout: default
 ---
 
+We automate your investments
+
+<br>
+<br>
+
+Please fill out this survey if you are interested in joining us:<br>
+[Interest](https://youtube.com)
