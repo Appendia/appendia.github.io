@@ -1,7 +1,7 @@
 title: Appendia
 author:
-  name: GitHub User
-  email: apendiainvesting@gmail.com
+  name: Appendia Investing
+  email: appendiainvesting@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   We automate your investments
 
@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
