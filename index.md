@@ -8,5 +8,7 @@
 layout: default
 ---
 
+## Automated Investments<br>
+
 Please fill out this survey if you are interested in joining us:<br>
 [Interest](https://forms.gle/3P86dW94k3zUYSy49)

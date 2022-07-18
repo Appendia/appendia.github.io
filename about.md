@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-We automate investments
+We automate your investment portfolio
